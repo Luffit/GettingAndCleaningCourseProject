@@ -1,13 +1,13 @@
 # Loaded files:
 
-X_test
-y_test
-subject_test
-X_train
-y_train
-subject_train
-features
-activity_labels
+- X_test
+- y_test
+- subject_test
+- X_train
+- y_train
+- subject_train
+- features
+- activity_labels
 
 # Labels of final tidy data set:
 
