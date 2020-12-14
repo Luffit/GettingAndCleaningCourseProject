@@ -1,6 +1,6 @@
 # Loaded files:
 
-X_test 
+X_test
 y_test
 subject_test
 X_train
@@ -9,7 +9,7 @@ subject_train
 features
 activity_labels
 
-Labels of final tidy data set:
+# Labels of final tidy data set:
 
  [1] "Subject"                                                                       
  [2] "Activity"                                                                      
